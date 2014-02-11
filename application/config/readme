@@ -1,0 +1,13 @@
+NOTICE
+
+	ref: http://www.codeigniter.org.tw/user_guide/libraries/config.html#environments
+	
+琌沮 ENVIRONMENT 把计 loading
+
+狦砞﹚Θ production ê碞穦更
+	application/config/production/config.php
+	
+狦砞﹚Θ development ê碞穦更
+	application/config/development/config.php
+	
+/application/config/ ┏郎常琌箇砞狦⊿Τヴ吏挂戈Ж玥琌箇砞更
